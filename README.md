@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucidiscool
-- 👀 I’m interested in code and skatebording
+- 👀 I’m interested in code mainly discord.py
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on some discord bot
 - 📫 How to reach me discord kewl_lucid
