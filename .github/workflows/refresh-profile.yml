@@ -1,0 +1,46 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/refresh-profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+      - name: Test profile generator
+        run: node --test scripts/refresh-profile.test.mjs
+      - name: Refresh pinned projects and contribution calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: node scripts/refresh-profile.mjs
+      - name: Commit changed profile data
+        run: |
+          git add README.md assets/contributions.svg
+          if git diff --cached --quiet; then
+            echo "Profile is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh pinned projects and contributions"
+          git push origin HEAD:main
