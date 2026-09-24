@@ -7,7 +7,7 @@
 Python scripts, web experiments, and useful little tools.<br>
 Founder of [Lucid Development](https://github.com/lucid-development-official) · Coding since 2024
 
-[Projects](https://github.com/Lucidiscool?tab=repositories) &nbsp; / &nbsp; [Lucid Development](https://github.com/lucid-development-official) &nbsp; / &nbsp; [Website](https://lucid-development-official.github.io/Our-Website/)
+[Projects](https://github.com/Lucidiscool?tab=repositories) &nbsp; / &nbsp; [Lucid Development](https://github.com/lucid-development-official) &nbsp; / &nbsp; [Website](https://lucidiscool.github.io/my-website/)
 
 </div>
 
@@ -44,7 +44,7 @@ I'm growing **Lucid Development**, trying new technologies, and getting a little
 
 <sub>Synced from my pinned repositories every six hours.</sub>
 
-## 📈 one square at a time
+## 📈 my recent contributions
 
 <p align="center">
   <a href="https://github.com/Lucidiscool?tab=overview">
