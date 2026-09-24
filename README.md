@@ -40,7 +40,7 @@ I'm growing **Lucid Development**, trying new technologies, and getting a little
 | [Lucid-AI-Public](https://github.com/Lucidiscool/Lucid-AI-Public) | — | Python |
 | [pi](https://github.com/Lucidiscool/pi) | Code project to help me learn more abt code and using github pages | JavaScript |
 | [Monitor-Toggler](https://github.com/Lucidiscool/Monitor-Toggler) | — | C# |
-| [Lucidiscool](https://github.com/Lucidiscool/Lucidiscool) | Config files for my GitHub profile. | — |
+| [Lucidiscool](https://github.com/Lucidiscool/Lucidiscool) | Config files for my GitHub profile. | JavaScript |
 
 <!-- PINNED-PROJECTS:END -->
 
