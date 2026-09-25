@@ -31,6 +31,10 @@ I started programming in **2024** with a JavaScript Discord bot. Since then, I'v
 
 I'm growing **Lucid Development**, trying new technologies, and getting a little better with every project.
 
+## current focus
+
+I'm currently practicing with small tools, web projects, and AI experiments. My goal is to keep shipping projects that teach me something useful and make the next build a little better.
+
 ## 🛠️ things i've built
 
 <!-- PINNED-PROJECTS:START -->
