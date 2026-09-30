@@ -42,7 +42,7 @@ I'm currently practicing with small tools, web projects, and AI experiments. My 
 | Project | What it's about | Built with |
 | :--- | :--- | :--- |
 | [Lucid-AI-Public](https://github.com/Lucidiscool/Lucid-AI-Public) | My own AI that I am currently working on and making updates. Feel free to add pull requests and I will get to them when I can. | Python |
-| [my-website](https://github.com/Lucidiscool/my-website) | Lucid — developer portfolio, live GitHub dashboard, and Lucid Development | HTML |
+| [Saxophone](https://github.com/Lucidiscool/Saxophone) | Cool Saxophone Website | JavaScript |
 
 <!-- PINNED-PROJECTS:END -->
 
