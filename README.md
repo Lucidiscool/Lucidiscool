@@ -43,6 +43,7 @@ I'm currently practicing with small tools, web projects, and AI experiments. My 
 | :--- | :--- | :--- |
 | [Lucid-AI-Public](https://github.com/Lucidiscool/Lucid-AI-Public) | My own AI that I am currently working on and making updates. Feel free to add pull requests and I will get to them when I can. | Python |
 | [Instrument-Studio](https://github.com/Lucidiscool/Instrument-Studio) | Interactive 3D instrument studio with alto saxophone, trumpet, built-in songs, and a sheet music composer | JavaScript |
+| [LucidAI-Evolution-Pages](https://github.com/Lucidiscool/LucidAI-Evolution-Pages) | Public game learning results for the private LucidAI Evolution lab | JavaScript |
 
 <!-- PINNED-PROJECTS:END -->
 
